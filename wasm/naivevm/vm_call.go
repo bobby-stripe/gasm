@@ -5,8 +5,8 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/mathetake/gasm/wasm"
-	"github.com/mathetake/gasm/wasm/buildoptions"
+	"github.com/bobby-stripe/gasm/wasm"
+	"github.com/bobby-stripe/gasm/wasm/buildoptions"
 )
 
 func call(vm *naiveVirtualMachine) {

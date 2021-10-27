@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/mathetake/gasm/wasm/leb128"
+	"github.com/bobby-stripe/gasm/wasm/leb128"
 )
 
 type FunctionType struct {

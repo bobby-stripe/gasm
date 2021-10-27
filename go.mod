@@ -1,4 +1,4 @@
-module github.com/mathetake/gasm
+module github.com/bobby-stripe/gasm
 
 go 1.16
 
@@ -10,4 +10,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
 
-replace github.com/mathetake/gasm => ./
+replace github.com/bobby-stripe/gasm => ./

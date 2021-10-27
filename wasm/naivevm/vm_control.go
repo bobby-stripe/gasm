@@ -3,7 +3,7 @@ package naivevm
 import (
 	"bytes"
 
-	"github.com/mathetake/gasm/wasm/leb128"
+	"github.com/bobby-stripe/gasm/wasm/leb128"
 )
 
 func block(vm *naiveVirtualMachine) {

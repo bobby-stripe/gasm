@@ -9,7 +9,7 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/mathetake/gasm/wasm"
+	"github.com/bobby-stripe/gasm/wasm"
 )
 
 const (

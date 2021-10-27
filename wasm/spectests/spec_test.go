@@ -15,8 +15,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/mathetake/gasm/wasm"
-	"github.com/mathetake/gasm/wasm/naivevm"
+	"github.com/bobby-stripe/gasm/wasm"
+	"github.com/bobby-stripe/gasm/wasm/naivevm"
 )
 
 type (

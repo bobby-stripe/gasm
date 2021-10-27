@@ -7,9 +7,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/mathetake/gasm/wasm"
-	"github.com/mathetake/gasm/wasm/buildoptions"
-	"github.com/mathetake/gasm/wasm/leb128"
+	"github.com/bobby-stripe/gasm/wasm"
+	"github.com/bobby-stripe/gasm/wasm/buildoptions"
+	"github.com/bobby-stripe/gasm/wasm/leb128"
 )
 
 type (

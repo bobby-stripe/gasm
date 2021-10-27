@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/mathetake/gasm/wasi"
-	"github.com/mathetake/gasm/wasm"
-	"github.com/mathetake/gasm/wasm/naivevm"
+	"github.com/bobby-stripe/gasm/wasi"
+	"github.com/bobby-stripe/gasm/wasm"
+	"github.com/bobby-stripe/gasm/wasm/naivevm"
 )
 
 func Test_fibonacci(t *testing.T) {

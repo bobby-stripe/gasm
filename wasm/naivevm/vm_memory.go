@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/mathetake/gasm/wasm"
+	"github.com/bobby-stripe/gasm/wasm"
 )
 
 func memoryBase(vm *naiveVirtualMachine) uint64 {
